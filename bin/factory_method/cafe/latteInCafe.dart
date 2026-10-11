@@ -2,7 +2,7 @@ import 'cafe.dart';
 import 'drink.dart';
 import 'latte.dart';
 
-class CoffeeCafe extends Cafe {
+class Latteincafe extends Cafe {
   @override
   Drink createDrink() => Latte();
 }
